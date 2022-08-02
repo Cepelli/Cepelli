@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 if missing quotation mark then syntax error unterminated string literal
-visit https://nostarch.com/pythoncrashcourse
+visit https://nostarch.com/pythoncrashcourse2e/
